@@ -1,7 +1,9 @@
-const data={
+[
+    
     {"id":1,"name":"nish","age":25},
     {"id":2,"name":"amy","age":28},
-    {"id":3,"name":"sheldon","age":30},
+    {"id":3,"name":"sheldon","age":30}
 
 
-}
+
+]
